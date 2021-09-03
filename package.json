@@ -33,7 +33,7 @@
     "rimraf": "^2.6.2",
     "sass-loader": "^7.0.3",
     "uglifyjs-webpack-plugin": "^1.2.5",
-    "vue": "^2.5.16",
+    "vue": "^3.2.8",
     "vue-html-loader": "^1.2.4",
     "vue-loader": "^15.2.4",
     "vue-style-loader": "^4.1.0",

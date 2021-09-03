@@ -9,7 +9,8 @@
   "author": "Romain Simon <contact@romainsimon.net>",
   "license": "MIT",
   "dependencies": {
-    "@vue/cli-service": "^4.5.13"
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.2.8"
   },
   "keywords": [
     "vue",
